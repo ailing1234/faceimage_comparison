@@ -1,0 +1,4 @@
+numpy==1.24.4
+flask==2.3.3
+deepface==0.0.83
+tensorflow==2.11.0
